@@ -1,0 +1,27 @@
+1. Question: 25 racehorses, no stopwatch. 5 tracks. Figure out the top three fastest horses in the fewest number of races. 
+2. Question: You are trying to rob houses on a street. Each house has some amount of cash. Your goal is to rob houses such that you maximize the total robbed amount. 
+
+The constraint is once you rob a house you cannot rob a house adjacent to that house.
+
+3. Question: If you have 100 credit card numbers (and all info) how would you make as much $ possible in 24 hours using only online transactions? 
+
+(Many follow up questions of how to get around certain fraud deterrents.) 
+
+4. 
+Question: A Russian gangster kidnaps you. He puts two bullets in consecutive order in an empty six-round revolver, spins it, points it at your head and shoots. *click* You're still alive. 
+
+He then asks you, do you want me to spin it again and fire or pull the trigger again. For each option, what is the probability that you'll be shot?
+
+
+5.Question: What options do you have, nefarious or otherwise, to stop people on a wireless network you are also on (but have no admin rights to) from hogging bandwidth by streaming videos?
+
+6. Question: You have two lightbulbs and a 100-story building. You want to find the floor at which the bulbs will break when dropped. Find the floor using the least number of drops.
+
+7. Describe how the website works. (That's the whole question, with no context.)
+
+8. Question: How many birthday posts occur on Facebook on a given day?
+
+9. Question: If you were going to redesign an ATM machine, how would you do it
+
+10. Question: There is a building with 100 floors. You are given 2 identical eggs. How do you use 2 eggs to find the threshold floor, where the egg will definitely break from any floor above floor N, including floor N itself.
+
